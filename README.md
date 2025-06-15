@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me JAI GANESH K
 
-Student @ St. Joseph's College of Engineering
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
+Student @ St. Joseph's College of Engineering                                              
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about Tech
 - 📫 How to reach me: jaiganeshk777@gmail.com
